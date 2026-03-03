@@ -16,12 +16,14 @@
     "url": "https://github.com/henry300/Conversor_de_moedas/issues"
   },
   "homepage": "https://github.com/henry300/Conversor_de_moedas#readme",
-  "description": "",
+  "description": ">*Objetivo:* Desenvolver uma aplicação funcional em Node.js utilizando TypeScript, implementando um sistema de menu iterativo e captura de dados do usuário.",
   "dependencies": {
     "@types/node": "^25.3.2",
     "@types/prompt-sync": "^4.2.3",
     "prompt-sync": "^4.2.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
-  }
+  },
+  "devDependencies": {},
+  "type": "commonjs"
 }
